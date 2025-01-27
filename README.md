@@ -35,6 +35,7 @@ Un jeu de quiz interactif développé avec PHP, MySQL, HTML, CSS et JavaScript.
 ## Développement
 
 Le projet est développé en deux phases :
+
 1. Utilisation de fichiers JSON pour le stockage des données
 2. Migration vers une base de données MySQL
 
