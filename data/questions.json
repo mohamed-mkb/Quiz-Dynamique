@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "question": "Quelle est la capitale de la France ?",
+            "choices": [
+                "Paris",
+                "Londres",
+                "Berlin",
+                "Madrid"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Quel est le plus grand oc\u00e9an du monde ?",
+            "choices": [
+                "Oc\u00e9an Atlantique",
+                "Oc\u00e9an Indien",
+                "Oc\u00e9an Pacifique",
+                "Oc\u00e9an Arctique"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Qui a peint la Joconde ?",
+            "choices": [
+                "Vincent van Gogh",
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Claude Monet"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Quelle est la plan\u00e8te la plus proche du Soleil ?",
+            "choices": [
+                "Venus",
+                "Mars",
+                "Mercure",
+                "Jupiter"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "En quelle ann\u00e9e a eu lieu la R\u00e9volution fran\u00e7aise ?",
+            "choices": [
+                "1789",
+                "1792",
+                "1799",
+                "1804"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Quel est l'\u00e9l\u00e9ment chimique le plus abondant dans l'univers ?",
+            "choices": [
+                "Oxyg\u00e8ne",
+                "Hydrog\u00e8ne",
+                "Carbone",
+                "H\u00e9lium"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Qui a \u00e9crit 'Les Mis\u00e9rables' ?",
+            "choices": [
+                "Victor Hugo",
+                "\u00c9mile Zola",
+                "Gustave Flaubert",
+                "Honor\u00e9 de Balzac"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Quelle est la plus haute montagne du monde ?",
+            "choices": [
+                "Mont Fuji",
+                "Mont Blanc",
+                "Mont Everest",
+                "Kilimandjaro"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Quel est le plus grand pays du monde en superficie ?",
+            "choices": [
+                "\u00c9tats-Unis",
+                "Chine",
+                "Canada",
+                "Russie"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Qui a d\u00e9couvert la p\u00e9nicilline ?",
+            "choices": [
+                "Alexander Fleming",
+                "Louis Pasteur",
+                "Marie Curie",
+                "Robert Koch"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "choices": [
+                "Amazone",
+                "Nil",
+                "Mississippi",
+                "Yangts\u00e9"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "En quelle ann\u00e9e l'homme a-t-il march\u00e9 sur la Lune pour la premi\u00e8re fois ?",
+            "choices": [
+                "1965",
+                "1967",
+                "1969",
+                "1971"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Quelle est la capitale du Japon ?",
+            "choices": [
+                "Tokyo",
+                "Osaka",
+                "Kyoto",
+                "Hiroshima"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Qui a formul\u00e9 la th\u00e9orie de la relativit\u00e9 ?",
+            "choices": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Stephen Hawking",
+                "Niels Bohr"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Quel est l'organe le plus grand du corps humain ?",
+            "choices": [
+                "Le foie",
+                "La peau",
+                "Les poumons",
+                "Les intestins"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Quelle est la plus grande for\u00eat tropicale du monde ?",
+            "choices": [
+                "For\u00eat amazonienne",
+                "For\u00eat du Congo",
+                "For\u00eat de Born\u00e9o",
+                "For\u00eat de Madagascar"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Qui est l'auteur de 'Romeo et Juliette' ?",
+            "choices": [
+                "William Shakespeare",
+                "Charles Dickens",
+                "Jane Austen",
+                "Mark Twain"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Quel est le m\u00e9tal le plus pr\u00e9cieux ?",
+            "choices": [
+                "Or",
+                "Platine",
+                "Rhodium",
+                "Palladium"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Quelle est la plus grande \u00eele du monde ?",
+            "choices": [
+                "Madagascar",
+                "Nouvelle-Guin\u00e9e",
+                "Groenland",
+                "Born\u00e9o"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Qui a peint 'La Nuit \u00e9toil\u00e9e' ?",
+            "choices": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Claude Monet",
+                "Salvador Dal\u00ed"
+            ],
+            "correct": 0
+        }
+    ]
+}
